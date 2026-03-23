@@ -1,60 +1,75 @@
-<h1 align="center">Hi 👋, I'm Qousain</h1>
-<h3 align="center">A passionate developer & learner from Pakistan 🇵🇰</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Qousain;Telegram+Bot+Developer;Automation+Expert;Always+Learning+New+Things+🚀">
+</h1>
+
+<h3 align="center">💻 Developer | 🤖 Bot Creator | ⚡ Tech Explorer</h3>
 
 ---
 
 ## 🧠 About Me
-- 🔭 I’m currently working on: **Telegram Bots & Automation**
-- 🌱 I’m learning: **Advanced JavaScript, APIs, Cloud Deployments**
-- 👯 I’m looking to collaborate on: **Open Source Projects**
-- 💬 Ask me about: **Bots, Termux, VPS, Deployments**
-- ⚡ Fun fact: I break things… then fix them better 😎
+- 🔭 Working on: **Telegram Bots & Automation**
+- 🌱 Learning: **Advanced JavaScript & Cloud**
+- 💬 Ask me about: **Bots, VPS, Termux**
+- ⚡ Fun fact: *I debug faster than I panic* 😎
 
 ---
 
-## 🛠️ Tech Stack
-- 💻 Languages: `JavaScript` | `Python` | `Node.js`
-- ⚙️ Tools: `Git` | `Docker` | `Termux`
-- ☁️ Platforms: `Cloudflare` | `Render` | `VPS`
-
----
-
-## 📊 GitHub Stats
+## 🚀 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,git,docker,linux" />
 </p>
 
 ---
 
-## 🔥 Top Languages
+## 📊 GitHub Stats (Animated Look)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+## 🔥 Activity Graph (Live Animation)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Animation)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
-- Telegram: [@yourusername](https://t.me/yourusername)
-- GitHub: https://github.com/YOUR_USERNAME
+<p align="center">
+  <a href="https://t.me/yourusername">
+    <img src="https://img.shields.io/badge/Telegram-00F7FF?style=for-the-badge&logo=telegram&logoColor=black"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🧩 Projects
-- 🚀 **GemBot Scanner** – Crypto signal bot
-- 🤖 **Telegram Automation Tools**
-- ⚡ More coming soon...
+## 🚀 Featured Projects
+- 🤖 **GemBot Scanner** – Crypto signal bot
+- ⚡ **Automation Tools**
+- 🔥 More coming soon...
 
 ---
 
 ## 🎯 Goals
-- 🔥 Build powerful automation tools
-- 💰 Create passive income through tech
-- 🌍 Contribute to open source
+- 💰 Build income through automation
+- 🌍 Go open-source big
+- ⚡ Master backend systems
 
 ---
 
-⭐ **Don't forget to star my repositories if you like them!**
+<h3 align="center">🚀 Thanks for visiting! Drop a ⭐ if you like my work</h3>
