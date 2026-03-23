@@ -48,10 +48,10 @@
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://t.me/yourusername">
+  <a href="https://t.me/kyrelic ">
     <img src="https://img.shields.io/badge/Telegram-00F7FF?style=for-the-badge&logo=telegram&logoColor=black"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/syedqousainhaidershah ">
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
